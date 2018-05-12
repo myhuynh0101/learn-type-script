@@ -1,0 +1,7 @@
+TypeScript:
+
+- Basic Types:
+https://www.typescriptlang.org/docs/handbook/basic-types.html
+
+- Variable Declarations:
+https://www.typescriptlang.org/docs/handbook/variable-declarations.html
