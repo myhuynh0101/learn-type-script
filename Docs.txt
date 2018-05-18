@@ -5,3 +5,6 @@ https://www.typescriptlang.org/docs/handbook/basic-types.html
 
 - Variable Declarations:
 https://www.typescriptlang.org/docs/handbook/variable-declarations.html
+
+- Interfaces
+https://www.typescriptlang.org/docs/handbook/interfaces.html
