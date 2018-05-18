@@ -8,3 +8,9 @@ https://www.typescriptlang.org/docs/handbook/variable-declarations.html
 
 - Interfaces
 https://www.typescriptlang.org/docs/handbook/interfaces.html
+
+
+- Learn exercise typescript:
+https://www.tsmean.com/articles/?gclid=CjwKCAjw8_nXBRAiEiwAXWe2yTkIkZs-ugwQC0mFM_kOUdoFvdlaTD_XRcUdQe2lBgsCXOrM_r2oEhoCLxIQAvD_BwE
+
+http://exercism.io/languages/typescript/exercises
