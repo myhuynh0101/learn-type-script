@@ -9,6 +9,16 @@ https://www.typescriptlang.org/docs/handbook/variable-declarations.html
 - Interfaces
 https://www.typescriptlang.org/docs/handbook/interfaces.html
 
+- Enums:
+https://www.typescriptlang.org/docs/handbook/enums.html
+
+
+- Function:
+https://vsavkin.com/functional-typescript-316f0e003dc6
+
+
+
+======================================================================
 
 - Learn exercise typescript:
 https://www.tsmean.com/articles/?gclid=CjwKCAjw8_nXBRAiEiwAXWe2yTkIkZs-ugwQC0mFM_kOUdoFvdlaTD_XRcUdQe2lBgsCXOrM_r2oEhoCLxIQAvD_BwE
