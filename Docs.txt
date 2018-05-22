@@ -13,6 +13,10 @@ https://www.typescriptlang.org/docs/handbook/interfaces.html
 https://www.typescriptlang.org/docs/handbook/enums.html
 
 
+- Type compatibility:
+https://www.typescriptlang.org/docs/handbook/type-compatibility.html
+
+
 - Function:
 https://vsavkin.com/functional-typescript-316f0e003dc6
 
