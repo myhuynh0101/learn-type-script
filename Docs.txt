@@ -16,6 +16,9 @@ https://www.typescriptlang.org/docs/handbook/enums.html
 - Type compatibility:
 https://www.typescriptlang.org/docs/handbook/type-compatibility.html
 
+- Advanced types:
+https://www.typescriptlang.org/docs/handbook/advanced-types.html
+
 
 - Function:
 https://vsavkin.com/functional-typescript-316f0e003dc6
